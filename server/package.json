@@ -1,0 +1,11 @@
+{
+  "name": "tp7-satellite-tracker-proxy",
+  "version": "1.0.0",
+  "description": "Micro-backend proxy y caché para proteger credenciales de Space-Track y N2YO (TP7 Satellite Tracker)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
+
